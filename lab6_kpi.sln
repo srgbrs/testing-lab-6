@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab6_kpi", "lab6_kpi.csproj", "{95483642-CDA9-4722-B259-832945010259}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab6_tests", "lab6_tests\lab6_tests.csproj", "{EAE8965E-E705-4453-A29D-BB23FE814265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95483642-CDA9-4722-B259-832945010259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95483642-CDA9-4722-B259-832945010259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95483642-CDA9-4722-B259-832945010259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95483642-CDA9-4722-B259-832945010259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAE8965E-E705-4453-A29D-BB23FE814265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE8965E-E705-4453-A29D-BB23FE814265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE8965E-E705-4453-A29D-BB23FE814265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE8965E-E705-4453-A29D-BB23FE814265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

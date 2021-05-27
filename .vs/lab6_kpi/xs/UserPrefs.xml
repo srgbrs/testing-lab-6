@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{95483642-CDA9-4722-B259-832945010259}|Default">
+  <MonoDevelop.Ide.ItemProperties.lab6__tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab6Context.cs">
+    <Files>
+      <File FileName="Program.cs" Line="37" Column="4" />
+      <File FileName="Furniture.cs" Line="15" Column="1" />
+      <File FileName="lab6Context.cs" Line="1" Column="1" />
+      <File FileName="lab6_tests/CsvHandler.cs" Line="10" Column="16" />
+      <File FileName="Category.cs" Line="1" Column="1" />
+      <File FileName="obj/Debug/netcoreapp3.1/lab6_kpi.AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab6_kpi" expanded="True">
+            <Node name="lab6_kpi" expanded="True">
+              <Node name="lab6_tests" expanded="True" />
+              <Node name="lab6Context.cs" selected="True" />
+            </Node>
+            <Node name="lab6_tests" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.lab6__kpi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
